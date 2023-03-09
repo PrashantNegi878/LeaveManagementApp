@@ -1,0 +1,19 @@
+th,td{
+    background-color: black;
+    color: white;
+}
+
+table{
+    text-align: center;
+    align-items: center;
+}
+
+#submitButton,#resetButton{
+    margin: 1px;
+}
+
+*{
+    align-items: center;
+    align-self: center;
+    text-align: center;
+}
