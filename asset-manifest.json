@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/leavemanagementapp/static/css/main.b37bf1ec.css",
-    "main.js": "/leavemanagementapp/static/js/main.290a0ed6.js",
-    "static/js/787.0b5084f0.chunk.js": "/leavemanagementapp/static/js/787.0b5084f0.chunk.js",
-    "index.html": "/leavemanagementapp/index.html",
-    "main.b37bf1ec.css.map": "/leavemanagementapp/static/css/main.b37bf1ec.css.map",
-    "main.290a0ed6.js.map": "/leavemanagementapp/static/js/main.290a0ed6.js.map",
-    "787.0b5084f0.chunk.js.map": "/leavemanagementapp/static/js/787.0b5084f0.chunk.js.map"
+    "main.css": "/LeaveManagementApp/static/css/main.b37bf1ec.css",
+    "main.js": "/LeaveManagementApp/static/js/main.61838b0d.js",
+    "static/js/787.0b5084f0.chunk.js": "/LeaveManagementApp/static/js/787.0b5084f0.chunk.js",
+    "index.html": "/LeaveManagementApp/index.html",
+    "main.b37bf1ec.css.map": "/LeaveManagementApp/static/css/main.b37bf1ec.css.map",
+    "main.61838b0d.js.map": "/LeaveManagementApp/static/js/main.61838b0d.js.map",
+    "787.0b5084f0.chunk.js.map": "/LeaveManagementApp/static/js/787.0b5084f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b37bf1ec.css",
-    "static/js/main.290a0ed6.js"
+    "static/js/main.61838b0d.js"
   ]
 }
