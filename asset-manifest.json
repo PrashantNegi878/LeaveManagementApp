@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leavemanagementapp/static/css/main.b37bf1ec.css",
+    "main.js": "/leavemanagementapp/static/js/main.290a0ed6.js",
+    "static/js/787.0b5084f0.chunk.js": "/leavemanagementapp/static/js/787.0b5084f0.chunk.js",
+    "index.html": "/leavemanagementapp/index.html",
+    "main.b37bf1ec.css.map": "/leavemanagementapp/static/css/main.b37bf1ec.css.map",
+    "main.290a0ed6.js.map": "/leavemanagementapp/static/js/main.290a0ed6.js.map",
+    "787.0b5084f0.chunk.js.map": "/leavemanagementapp/static/js/787.0b5084f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b37bf1ec.css",
+    "static/js/main.290a0ed6.js"
+  ]
+}
